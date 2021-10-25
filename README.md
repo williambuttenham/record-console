@@ -10,3 +10,5 @@ Coming soon:
 - HDMI Monitor
 - HDMI Splitter
 - Builting power strip
+
+https://www.richelieu.com/documents/docsGr/100/811/8/1008118/1365841.pdf
