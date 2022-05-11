@@ -1,14 +1,29 @@
 # record-console
 
-Documenting my record console and the modifications I make
+Documenting my record console components and any documentation for building/operating it.
 
-Coming soon:
-- New amp and preamp
-- Bluetooth reciever
-- Chromecast
-- Builtin computer
+## Equipment
+### Console:
+Emerson 0B149
+
+### Amplifier:
+Douk G5
+
+### Phono Preamp:
+Pyle PP999
+
+### Turntable:
+Dual 1009 SK
+
+### Smart Speakers:
+Alexa (also used for bluetooth input)
+Google Home Mini
+
+### Whole home audio:
+Chromecast v3 with HDMI audio splitter
+
+### Coming soon:
+- Computer
 - HDMI Monitor
-- HDMI Splitter
-- Builting power strip
-
-https://www.richelieu.com/documents/docsGr/100/811/8/1008118/1365841.pdf
+- Power strip with C14 plug
+- Six channel stero mixer
